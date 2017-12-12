@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+## Contact
+500, Lioufeng Rd., Wufeng, Taichung 41354, Taiwan 
+Tel: +886-917-251-181
+Email: htchu.taiwan@gmail.com
 
-You can use the [editor on GitHub](https://github.com/htchu/htchu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Education
+Ph.D., Computer Science, National Thsing Hua University, Hsinchu, Taiwan, 2002
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Journal Pulications
+1. Transcriptome Sequencing for the Detection of Chimeric Transcripts.
+Chu HT.
+Methods Mol Biol. 2016;1381:239-53. doi: 10.1007/978-1-4939-3204-7_14.
+PMID: 26667465
 
-### Markdown
+2. The Core Pattern Analysis on Chinese Herbal Medicine for Sjögren's syndrome: A Nationwide Population-Based Study.
+Chang CM, Chu HT, Wei YH, Chen FP, Wang S, Wu PC, Yen HR, Chen TJ, Chang HH.
+Sci Rep. 2015 Apr 29;5:9541. doi: 10.1038/srep09541. Erratum in: Sci Rep. 2015;5:14887. Sci Rep. 2017 May 25;7:46824.
+PMID: 25923413 Free PMC Article
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3. Genotyping of human neutrophil antigens (HNA) from whole genome sequencing data.
+Chu HT, Lin H, Tsao TT, Chang CF, Hsiao WW, Yeh TJ, Chang CM, Liu YW, Wang TY, Yang KC, Chen TJ, Chen JC, Chen KC, Kao CY.
+BMC Med Genomics. 2013 Sep 12;6:31. doi: 10.1186/1755-8794-6-31.
+PMID: 24028078 Free PMC Article
 
-```markdown
-Syntax highlighted code block
+4. SeqEntropy: genome-wide assessment of repeats for short read sequencing.
+Chu HT, Hsiao WW, Tsao TT, Hsu DF, Chen CC, Lee SA, Kao CY.
+PLoS One. 2013;8(3):e59484. doi: 10.1371/journal.pone.0059484. Epub 2013 Mar 27.
+PMID: 23544073 Free PMC Article
 
-# Header 1
-## Header 2
-### Header 3
+5. EBARDenovo: highly accurate de novo assembly of RNA-Seq with efficient chimera-detection.
+Chu HT, Hsiao WW, Chen JC, Yeh TJ, Tsai MH, Lin H, Liu YW, Lee SA, Chen CC, Tsao TT, Kao CY.
+Bioinformatics. 2013 Apr 15;29(8):1004-10. doi: 10.1093/bioinformatics/btt092. Epub 2013 Mar 1.
+PMID: 23457040
 
-- Bulleted
-- List
+6. Quantitative assessment of mitochondrial DNA copies from whole genome sequencing.
+Chu HT, Hsiao WW, Tsao TT, Chang CM, Liu YW, Fan CC, Lin H, Chang HH, Yeh TJ, Chen JC, Huang DM, Chen CC, Kao CY.
+BMC Genomics. 2012;13 Suppl 7:S5. doi: 10.1186/1471-2164-13-S7-S5. Epub 2012 Dec 13.
+PMID: 23282223 Free PMC Article
 
-1. Numbered
-2. List
+7. A quantitative analysis of monochromaticity in genetic interaction networks.
+Hsu CH, Wang TY, Chu HT, Kao CY, Chen KC.
+BMC Bioinformatics. 2011;12 Suppl 13:S16. doi: 10.1186/1471-2105-12-S13-S16. Epub 2011 Nov 30.
+PMID: 22372977 Free PMC Article
 
-**Bold** and _Italic_ and `Code` text
+8. RFID-initiated workflow control to facilitate patient safety and utilization efficiency in operation theater.
+Liu CC, Chang CH, Su MC, Chu HT, Hung SH, Wong JM, Wang PC.
+Comput Methods Programs Biomed. 2011 Dec;104(3):435-42. doi: 10.1016/j.cmpb.2010.08.017. Epub 2010 Oct 6.
+PMID: 20926155
 
-[Link](url) and ![Image](src)
-```
+## Conference
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/htchu/htchu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Reference
+https://www.thebalance.com/academic-curriculum-vitae-example-2060817
